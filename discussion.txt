@@ -1,0 +1,5 @@
+android life cycle :  onCreate(Install) , Onstart(Appliction on ),
+                         onResume(),
+                         onStop , onPause,onDestroy,
+
+camera :       

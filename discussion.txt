@@ -3,3 +3,25 @@ android life cycle :  onCreate(Install) , Onstart(Appliction on ),
                          onStop , onPause,onDestroy,
 
 camera :       
+
+
+
+async : 1000 data , //   (non-blocking)
+
+sync :  blocking // 1000 data , 
+
+1 data not ready --- 
+
+
+data [
+ {
+        "title": "arijit",
+        "employee id": "0021"
+    },
+    {
+
+    },
+    []
+]
+   
+local data: 
